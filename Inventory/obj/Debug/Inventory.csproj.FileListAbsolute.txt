@@ -1,0 +1,10 @@
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.frmAddProduct.resources
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\AMD-RYZEN\source\repos\Inventory\Inventory\obj\Debug\Inventory.pdb
